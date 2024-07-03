@@ -13,5 +13,5 @@ This repository contains various Jupyter notebooks showcasing different framewor
 7. **`NaturalLanguageProcessing.ipynb`**: Contains an implementation of the Bag of Words model.
 8. **`Regression.ipynb`**: Details various regression models and their implementations.
 9. **`RegressionModelSelectionR2.ipynb`**: Evaluates regression models using R² and other metrics.
-10. **`ReinforcementLearning.ipynb`**: Cintains an attempt to implement Uper Confidence Bound.
+10. **`ReinforcementLearning.ipynb`**: Contains an attempt to implement Uper Confidence Bound.
 
